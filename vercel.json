@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/generate-rank", "dest": "/api/generate-rank.js" }
+  ]
+}
