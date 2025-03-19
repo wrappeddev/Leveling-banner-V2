@@ -1,0 +1,8 @@
+{
+  "name": "rank-card-api",
+  "version": "1.0.0",
+  "main": "api/generate-rank.js",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
+}
